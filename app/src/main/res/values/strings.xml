@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UTS_MP</string>
+    <string name="food_page_title">Makanan Favorit Saya</string>
+    <string name="food_image_description">Foto makanan favorit</string>
+    <string name="favorite_food_name">Kebab</string>
+    <string name="favorite_food_description">Saya menyukai kebab karena rasanya gurih, aromanya menggugah selera, dan isinya lengkap. Dalam satu makanan ada daging, sayuran, saus, dan kulit tortilla yang dipanggang sedep. Keunikan kebab adalah rasanya bisa dibuat berbeda-beda sesuai isi dan saus yang dipilih, sehingga cocok dimakan saat santai maupun ketika ingin makan cepat tetapi tetap mengenyangkan.</string>
+    <string name="food_name_detail">Nama makanan: Kebab</string>
+    <string name="food_origin_detail">Asal makanan: Turki / Timur Tengah</string>
+    <string name="food_price_detail">Harga makanan: sekitar Rp15.000 - Rp30.000</string>
+    <string name="profile_image_description">Foto saya</string>
+    <string name="profile_image_label">Foto Saya</string>
+    <string name="destination_button_text">Tujuan Destinasi Wisata Impian</string>
+    <string name="destination_page_title">Destinasi Wisata Impian</string>
+    <string name="jungfraujoch_image_description">Foto Jungfraujoch</string>
+    <string name="fuji_image_description">Foto Gunung Fuji</string>
+    <string name="destination_name">Jungfraujoch dan Gunung Fuji</string>
+    <string name="destination_description">Destinasi wisata impian saya adalah Jungfraujoch di Swiss dan Gunung Fuji di Jepang. Jungfraujoch terkenal dengan pemandangan Pegunungan Alpen, salju, dan suasana dataran tinggi yang indah. Gunung Fuji memiliki bentuk gunung yang sangat khas dan menjadi ikon Jepang. Keunikan kedua tempat ini adalah pemandangan alamnya yang kuat, bersih, dan berbeda dari suasana kota sehari-hari.</string>
+    <string name="destination_name_detail">Nama: Jungfraujoch dan Gunung Fuji</string>
+    <string name="destination_location_detail">Letak: Swiss dan Jepang</string>
+    <string name="destination_unique_detail">Keunikan: pemandangan salju Alpen, panorama pegunungan, dan ikon alam Jepang yang terkenal di dunia.</string>
+    <string name="back_button_text">Kembali</string>
+</resources>
